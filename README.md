@@ -1,11 +1,11 @@
-# :balance_scale: Java Task / Exchange Rates
+# Java Task / Exchange Rates
 
 Task for recruitment process. Delivered in two versions:
 - Console application
 - JavaFX application
 
 
-### :desktop_computer:	 Console application
+### Console application
 
 To use with console go to **\output\ConverterConsole** folder and run:
 ```bash
@@ -16,7 +16,7 @@ java -jar ConverterConsole.jar PLN 2.50
     // result: 11.24
 ```
 
-### :repeat: JavaFX application
+### JavaFX application
 
 To run application go to **\output\ConverterJavaFXApp** folder and:
 
@@ -25,13 +25,13 @@ To run application go to **\output\ConverterJavaFXApp** folder and:
 ![Screen GUI](/screens/ExchangeRateConverter2.jpg)
 
 
-### :heavy_check_mark: Test
+### Tests
 
 To run tests open project in Eclipse and run **AllTests** with JUnit configuration and linked JUnit 5 library.
 ![Screen JUnit](/screens/jUnit.jpg)
 
 
-### :bookmark_tabs: About task
+### About task
 
 The task is to create simple exchange rates calculator in Java.
 
