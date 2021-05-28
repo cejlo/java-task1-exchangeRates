@@ -24,6 +24,16 @@ To run application go to **\output\ConverterJavaFXApp** folder and:
 
 ![Screen GUI](/screens/ExchangeRateConverter2.jpg)
 
+### Eclipse
+
+Run Configuration VM arguments for JavaFX:
+
+```bash
+--module-path "[path to javafx-sdk]" --add-modules javafx.controls,javafx.fxml
+```
+Dependencies:
+
+JavaFX
 
 ### Tests
 
